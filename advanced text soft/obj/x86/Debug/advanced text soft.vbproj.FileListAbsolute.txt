@@ -1,0 +1,69 @@
+c:\users\intel\documents\visual studio 2010\Projects\advanced text soft\advanced text soft\bin\Debug\advanced text soft.exe
+c:\users\intel\documents\visual studio 2010\Projects\advanced text soft\advanced text soft\bin\Debug\advanced text soft.pdb
+c:\users\intel\documents\visual studio 2010\Projects\advanced text soft\advanced text soft\bin\Debug\advanced text soft.xml
+c:\users\intel\documents\visual studio 2010\Projects\advanced text soft\advanced text soft\obj\x86\Debug\advanced_text_soft.Form1.resources
+c:\users\intel\documents\visual studio 2010\Projects\advanced text soft\advanced text soft\obj\x86\Debug\advanced_text_soft.Resources.resources
+c:\users\intel\documents\visual studio 2010\Projects\advanced text soft\advanced text soft\obj\x86\Debug\advanced text soft.vbproj.GenerateResource.Cache
+c:\users\intel\documents\visual studio 2010\Projects\advanced text soft\advanced text soft\obj\x86\Debug\advanced text soft.exe
+c:\users\intel\documents\visual studio 2010\Projects\advanced text soft\advanced text soft\obj\x86\Debug\advanced text soft.xml
+c:\users\intel\documents\visual studio 2010\Projects\advanced text soft\advanced text soft\obj\x86\Debug\advanced text soft.pdb
+C:\Users\Intel\Documents\Visual Studio 2010\Projects\advanced text soft\advanced text soft\bin\Debug\Interop.WMPLib.dll
+C:\Users\Intel\Documents\Visual Studio 2010\Projects\advanced text soft\advanced text soft\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Intel\Documents\Visual Studio 2010\Projects\advanced text soft\advanced text soft\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Intel\Documents\Visual Studio 2010\Projects\advanced text soft\advanced text soft\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Intel\Documents\Visual Studio 2010\Projects\advanced text soft\advanced text soft\obj\x86\Debug\advanced text soft.vbproj.ResolveComReference.cache
+C:\Users\Intel\Documents\Visual Studio 2010\Projects\advanced text soft\advanced text soft\obj\x86\Debug\advanced_text_soft.Renamefolder.resources
+C:\Users\Intel\Documents\Visual Studio 2010\Projects\advanced text soft\advanced text soft\obj\x86\Debug\advanced_text_soft.StructeredDesignBrowser.resources
+C:\Users\Intel\Documents\Visual Studio 2010\Projects\advanced text soft\advanced text soft\obj\x86\Debug\advanced_text_soft.InteractiveDesignBrowservb.resources
+C:\Users\Intel\Documents\Visual Studio 2010\Projects\advanced text soft\advanced text soft\obj\x86\Debug\advanced_text_soft.Form2.resources
+C:\Users\Intel\Documents\Visual Studio 2010\Projects\advanced text soft\advanced text soft\obj\x86\Debug\advanced_text_soft.Form3.resources
+C:\Users\Intel\Documents\Visual Studio 2010\Projects\advanced text soft\advanced text soft\obj\x86\Debug\advanced_text_soft.Form4.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\advanced text soft\advanced text soft\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\advanced text soft\advanced text soft\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\advanced text soft\advanced text soft\obj\x86\Debug\advanced text soft.vbproj.ResolveComReference.cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\advanced text soft\advanced text soft\obj\x86\Debug\advanced text soft.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\advanced text soft\advanced text soft\obj\x86\Debug\advanced text soft.xml
+C:\Users\user\Documents\Visual Studio 2010\Projects\advanced text soft\advanced text soft\obj\x86\Debug\advanced text soft.pdb
+C:\Users\Filip Marchidan\Documents\Visual Studio 2012\Projects\advanced text soft\advanced text soft\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Filip Marchidan\Documents\Visual Studio 2012\Projects\advanced text soft\advanced text soft\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Filip Marchidan\Documents\Visual Studio 2012\Projects\advanced text soft\advanced text soft\obj\x86\Debug\advanced text soft.vbproj.ResolveComReference.cache
+C:\Users\Filip Marchidan\Documents\Visual Studio 2012\Projects\advanced text soft\advanced text soft\obj\x86\Debug\advanced text soft.exe
+C:\Users\Filip Marchidan\Documents\Visual Studio 2012\Projects\advanced text soft\advanced text soft\obj\x86\Debug\advanced text soft.xml
+C:\Users\Filip Marchidan\Documents\Visual Studio 2012\Projects\advanced text soft\advanced text soft\obj\x86\Debug\advanced text soft.pdb
+C:\Users\Filip Marchidan\Documents\Visual Studio 2012\Projects\advanced text soft\advanced text soft\bin\Debug\advanced text soft.exe
+C:\Users\Filip Marchidan\Documents\Visual Studio 2012\Projects\advanced text soft\advanced text soft\bin\Debug\advanced text soft.pdb
+C:\Users\Filip Marchidan\Documents\Visual Studio 2012\Projects\advanced text soft\advanced text soft\bin\Debug\advanced text soft.xml
+C:\Users\Filip Marchidan\Documents\Visual Studio 2012\Projects\advanced text soft\advanced text soft\bin\Debug\Interop.WMPLib.dll
+C:\Users\Filip Marchidan\Documents\Visual Studio 2012\Projects\advanced text soft\advanced text soft\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Filip Marchidan\Documents\Visual Studio 2012\Projects\advanced text soft\advanced text soft\obj\x86\Debug\advanced_text_soft.Form1.resources
+C:\Users\Filip Marchidan\Documents\Visual Studio 2012\Projects\advanced text soft\advanced text soft\obj\x86\Debug\advanced_text_soft.Form2.resources
+C:\Users\Filip Marchidan\Documents\Visual Studio 2012\Projects\advanced text soft\advanced text soft\obj\x86\Debug\advanced_text_soft.Form3.resources
+C:\Users\Filip Marchidan\Documents\Visual Studio 2012\Projects\advanced text soft\advanced text soft\obj\x86\Debug\advanced_text_soft.Form4.resources
+C:\Users\Filip Marchidan\Documents\Visual Studio 2012\Projects\advanced text soft\advanced text soft\obj\x86\Debug\advanced_text_soft.InteractiveDesignBrowservb.resources
+C:\Users\Filip Marchidan\Documents\Visual Studio 2012\Projects\advanced text soft\advanced text soft\obj\x86\Debug\advanced_text_soft.Resources.resources
+C:\Users\Filip Marchidan\Documents\Visual Studio 2012\Projects\advanced text soft\advanced text soft\obj\x86\Debug\advanced_text_soft.Renamefolder.resources
+C:\Users\Filip Marchidan\Documents\Visual Studio 2012\Projects\advanced text soft\advanced text soft\obj\x86\Debug\advanced_text_soft.StructeredDesignBrowser.resources
+C:\Users\Filip Marchidan\Documents\Visual Studio 2012\Projects\advanced text soft\advanced text soft\obj\x86\Debug\advanced text soft.vbproj.GenerateResource.Cache
+C:\Users\Filip Marchidan\Documents\Visual Studio 2012\Projects\advanced text soft\advanced text soft\obj\x86\Debug\advanced text soft.vbprojResolveAssemblyReference.cache
+C:\Users\Filip Marchidan\Documents\Visual Studio 2017\Projects\advanced text soft\advanced text soft\bin\Debug\advanced text soft.exe
+C:\Users\Filip Marchidan\Documents\Visual Studio 2017\Projects\advanced text soft\advanced text soft\bin\Debug\advanced text soft.pdb
+C:\Users\Filip Marchidan\Documents\Visual Studio 2017\Projects\advanced text soft\advanced text soft\bin\Debug\advanced text soft.xml
+C:\Users\Filip Marchidan\Documents\Visual Studio 2017\Projects\advanced text soft\advanced text soft\bin\Debug\Interop.WMPLib.dll
+C:\Users\Filip Marchidan\Documents\Visual Studio 2017\Projects\advanced text soft\advanced text soft\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Filip Marchidan\Documents\Visual Studio 2017\Projects\advanced text soft\advanced text soft\obj\x86\Debug\advanced text soft.vbprojAssemblyReference.cache
+C:\Users\Filip Marchidan\Documents\Visual Studio 2017\Projects\advanced text soft\advanced text soft\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Filip Marchidan\Documents\Visual Studio 2017\Projects\advanced text soft\advanced text soft\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Filip Marchidan\Documents\Visual Studio 2017\Projects\advanced text soft\advanced text soft\obj\x86\Debug\advanced text soft.vbproj.ResolveComReference.cache
+C:\Users\Filip Marchidan\Documents\Visual Studio 2017\Projects\advanced text soft\advanced text soft\obj\x86\Debug\advanced_text_soft.Form1.resources
+C:\Users\Filip Marchidan\Documents\Visual Studio 2017\Projects\advanced text soft\advanced text soft\obj\x86\Debug\advanced_text_soft.Form2.resources
+C:\Users\Filip Marchidan\Documents\Visual Studio 2017\Projects\advanced text soft\advanced text soft\obj\x86\Debug\advanced_text_soft.Form3.resources
+C:\Users\Filip Marchidan\Documents\Visual Studio 2017\Projects\advanced text soft\advanced text soft\obj\x86\Debug\advanced_text_soft.Form4.resources
+C:\Users\Filip Marchidan\Documents\Visual Studio 2017\Projects\advanced text soft\advanced text soft\obj\x86\Debug\advanced_text_soft.InteractiveDesignBrowservb.resources
+C:\Users\Filip Marchidan\Documents\Visual Studio 2017\Projects\advanced text soft\advanced text soft\obj\x86\Debug\advanced_text_soft.Resources.resources
+C:\Users\Filip Marchidan\Documents\Visual Studio 2017\Projects\advanced text soft\advanced text soft\obj\x86\Debug\advanced_text_soft.Renamefolder.resources
+C:\Users\Filip Marchidan\Documents\Visual Studio 2017\Projects\advanced text soft\advanced text soft\obj\x86\Debug\advanced_text_soft.StructeredDesignBrowser.resources
+C:\Users\Filip Marchidan\Documents\Visual Studio 2017\Projects\advanced text soft\advanced text soft\obj\x86\Debug\advanced text soft.vbproj.GenerateResource.cache
+C:\Users\Filip Marchidan\Documents\Visual Studio 2017\Projects\advanced text soft\advanced text soft\obj\x86\Debug\advanced text soft.vbproj.CoreCompileInputs.cache
+C:\Users\Filip Marchidan\Documents\Visual Studio 2017\Projects\advanced text soft\advanced text soft\obj\x86\Debug\advanced text soft.exe
+C:\Users\Filip Marchidan\Documents\Visual Studio 2017\Projects\advanced text soft\advanced text soft\obj\x86\Debug\advanced text soft.xml
+C:\Users\Filip Marchidan\Documents\Visual Studio 2017\Projects\advanced text soft\advanced text soft\obj\x86\Debug\advanced text soft.pdb
